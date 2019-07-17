@@ -1,0 +1,25 @@
+body {
+    margin : 0;
+    background-color: #ebeff2; 
+    font-family : arial, sans-serif;
+}
+ul {
+    margin : 0;
+    padding : 0;
+    list-style-type : none;
+}
+a  { text-decoration : none; }
+p  { line-height : 22px; }
+*  { box-sizing : border-box; }
+
+
+.container{
+	background: #fff;
+	padding: 50px 15px; 
+	box-shadow: 3px 3px 3px rgba(0,0,0,0.2); 
+}
+
+.img-holder{ height: 180px; }
+.img-holder img{ border:3px solid #ccc; }
+
+.p-t-50{ padding-top: 50px; }
