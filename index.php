@@ -3,15 +3,15 @@
 $mobiles =[
             ['brand'=>'Samsung' ,'weight' => '140gm' , 'color' => 'black' ,'camera' => '13px','screen' => '1080px'],
             ['brand'=>'Iphone' ,'weight' => '150gm' , 'color' => 'gold' ,'camera' => '18px','screen' => '1374px'],
-            ['brand'=>'Sony' ,'weight' => '135gm' , 'color' => 'black' ,'camera' => '20px','screen' => '1180px']                         
+            ['brand'=>'Sony' ,'weight' => '135gm' , 'color' => 'black' ,'camera' => '20px','screen' => '1180px']                 
 ];
-
 ?>
 
 <!DOCTYPE html>
 <html lang="en-US">
     <head>
-        <title>Mobiles</title>
+        
+        <title>get test</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
